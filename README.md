@@ -3,7 +3,6 @@ Sure! Below is a README file template for the topic "K-Means Clustering with Pyt
 
 ---
 
-# K-Means Clustering with Python
 
 ## Overview
 
